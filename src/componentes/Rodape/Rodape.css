@@ -1,0 +1,21 @@
+.footer {
+    background-color: #6278F7;
+    padding: 32px 128px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer div{
+    display: flex;
+    justify-content: space-between;
+}
+
+.links{
+    padding: 0 8px;
+}
+
+.footer p{
+    color: white;
+    font-size: 18px;
+}
